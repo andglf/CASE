@@ -3,4 +3,4 @@
 
 ## 案例
 
-- [Opencv](https://github.com/BinHaoWang/CASE/tree/master/Opencv?user=glf)
+- [Opencv](https://github.com/BinHaoWang/CASE/tree/master/Opencv)
